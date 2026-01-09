@@ -1,0 +1,7 @@
+date,region,category,product,quantity,price
+2024-01-01,North,Electronics,Laptop,2,899.99
+2024-01-01,North,Books,Python 101,5,29.99
+2024-01-02,South,Electronics,Headphones,10,59.99
+2024-01-02,South,Home,Blender,3,89.50
+2024-01-03,West,Books,Data Science Handbook,4,39.99
+2024-01-03,West,Home,Vacuum Cleaner,1,149.99
