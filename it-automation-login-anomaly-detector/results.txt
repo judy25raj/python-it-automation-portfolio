@@ -1,0 +1,19 @@
+
+[INFO] Analyzing login activity from: /mnt/data/login_anomaly_detector_full/sample_logins.csv
+Current day login total for ejones is 45 (average: 10.00, ratio: 4.50x)
+[ALERT] Potential suspicious activity detected for ejones: login attempts are 4.50x the average (threshold=3.0).
+------------------------------------------------------------
+Current day login total for asmith is 12 (average: 11.00, ratio: 1.09x)
+[INFO] Login activity for asmith is within normal range (threshold=3.0, ratio=1.09x).
+------------------------------------------------------------
+Current day login total for bgarcia is 5 (average: 6.00, ratio: 0.83x)
+[INFO] Login activity for bgarcia is within normal range (threshold=3.0, ratio=0.83x).
+------------------------------------------------------------
+Current day login total for tlee is 30 (average: 8.00, ratio: 3.75x)
+[ALERT] Potential suspicious activity detected for tlee: login attempts are 3.75x the average (threshold=3.0).
+------------------------------------------------------------
+Current day login total for mnguyen is 3 (average: 3.00, ratio: 1.00x)
+[INFO] Login activity for mnguyen is within normal range (threshold=3.0, ratio=1.00x).
+------------------------------------------------------------
+
+[SUMMARY] Checked 5 user(s). Suspicious activity detected for 2 user(s).
