@@ -1,0 +1,1 @@
+Run in this environment failed or partial: Command '['/usr/local/bin/python3', '/mnt/data/google-it-automation-car-sales-report/cars.py']' returned non-zero exit status 1.
