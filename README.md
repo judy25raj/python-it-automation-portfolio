@@ -5,7 +5,8 @@
 
 Welcome to my **IT Automation portfolio** — a collection of hands-on projects demonstrating practical experience in **Python-based automation, system troubleshooting, monitoring, data processing, and operational scripting**.
 
-This portfolio focuses on **real-world IT scenarios**, emphasizing automation to reduce manual effort, improve reliability, and support operational teams.
+🎓 This portfolio is aligned with the **Google IT Automation with Python Professional Certificate**
+and demonstrates hands-on automation for real-world IT operations emphasizing automation to reduce manual effort, improve reliability, and support operational teams.
 
 ---
 
