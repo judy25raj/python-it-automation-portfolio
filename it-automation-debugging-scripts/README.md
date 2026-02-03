@@ -10,13 +10,13 @@ This project is based on the Google IT Automation with Python lab
 "Debugging a problem with a Cloud Deployment and Fix it".
 
 ## 🧩 Scenario
-You're an IT administrator for a small startup. A cloud VM (ws01) serves the company website. One day, the site returns:
+This role an IT administrator for a small startup. A cloud VM (ws01) serves the company website. One day, the site returns:
 
 **HTTP 500 – Internal Server Error**
 
-Your task is to troubleshoot and restore service on ws01.
+The task is to troubleshoot and restore service on ws01.
 
-During the investigation you will:
+During the investigation the process will:
 - Interpret HTTP status codes (4xx vs 5xx)
 - Check web server status using `systemctl`
 - Inspect port usage with `netstat`
@@ -53,9 +53,9 @@ Key skills:
 - **ws01_debug_playbook.sh** — Commented Bash playbook with diagnostic + remediation commands
 - **ws01_debug_report.md** — Short incident-style report (symptoms, timeline, root cause, fix, prevention)
 
-These files are meant to show how you think and work when debugging live systems.
+These files are meant to show how the system think and work when debugging live systems.
 
 ## ▶️ Portfolio Narrative
-You can describe this project as:
+Portfolio Summary:
 
 > Investigated and resolved an HTTP 500 issue on a cloud-hosted Apache web server by tracing a port conflict on 0.0.0.0:80 to a developer test script (jimmytest.py) managed by systemd. Used systemctl, netstat, and ps to identify the rogue service, disabled it, and successfully restarted Apache, restoring the production website.
