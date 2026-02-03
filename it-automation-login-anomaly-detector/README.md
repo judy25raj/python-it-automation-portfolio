@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/judy25raj">
-    <img src="https://github.com/judy25raj.png" width="120" alt="Owner avatar">
-  </a>
-</p>
-
 <h1 align="center">Login Anomaly Detector</h1>
 
 <p align="center">
