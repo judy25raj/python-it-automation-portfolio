@@ -10,13 +10,13 @@ This project is based on the Google IT Automation with Python lab
 "Scaling and converting images using PIL".
 
 ## 🧩 Scenario
-Your company is updating its website and hired a contractor to design new icon graphics. Unfortunately, the contractor delivered the final files in the wrong format:
+The systemr company is updating its website and hired a contractor to design new icon graphics. Unfortunately, the contractor delivered the final files in the wrong format:
 
 - .tiff images  
 - 192x192 resolution (too large)  
 - Rotated 90° anti-clockwise  
 
-You need to use Python and the Pillow (PIL) library to batch-fix these images so they’re ready for the website launch:
+The system need to use Python and the Pillow (PIL) library to batch-fix these images so they’re ready for the website launch:
 
 - Convert to .jpeg  
 - Resize to 128x128  
@@ -37,7 +37,7 @@ Using Pillow (PIL) to:
 ```
 google-it-automation-image-scaling-pil/
 ├─ transform_images.py   # Main script: rotate, resize, convert, save as JPEG
-├─ images/               # (Optional) Put your source images here (.tiff, .png, etc.)
+├─ images/               # (Optional) Put the systemr source images here (.tiff, .png, etc.)
 └─ README.md             # This file
 ```
 
@@ -56,7 +56,7 @@ By default:
 - INPUT_DIR = "images"
 - OUTPUT_DIR = "icons"
 
-You can change these via environment variables.
+The system can change these via environment variables.
 
 ## ▶️ How to Run
 Install Pillow:
@@ -64,7 +64,7 @@ Install Pillow:
 pip install pillow
 ```
 
-Place your input images in the images/ directory.
+Place the systemr input images in the images/ directory.
 
 Run:
 ```
@@ -77,4 +77,4 @@ ls icons
 ```
 
 ## 🧠 Project Story (Portfolio Narrative)
-This project shows how I can use Python to solve a very practical problem in web development and operations by automating image transformations for production-ready assets.
+This project shows how can use Python to solve a very practical problem in web development and operations by automating image transformations for production-ready assets.
