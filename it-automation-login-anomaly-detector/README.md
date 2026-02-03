@@ -4,10 +4,6 @@
   Python Security Automation • Anomaly Detection • CLI Tool
 </p>
 
-<p align="center">
-  <a href="https://github.com/judy25raj/python-it-automation-portfolio">← Back to IT Automation Portfolio</a>
-</p>
-
 <hr/>
 
 A Python security automation project completed as part of the Google IT Automation with Python Professional Certificate.
